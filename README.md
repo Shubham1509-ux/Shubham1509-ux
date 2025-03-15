@@ -1,8 +1,8 @@
 Welcome to my GitHub! I'm a Data Scientist & Machine Learning Enthusiast passionate about AI, Big Data, and Fashion-Tech Innovation.
 
 ## 👀 Interests
-- Data Science & Machine Learning 🤖📊 /n
-- Big Data & Analytics 🔥 /n
+- Data Science & Machine Learning 🤖📊 
+- Big Data & Analytics 🔥 
 - Fashion & AI Fusion 👗💡
 - Open-Source & Creative Coding 💻✨
 
