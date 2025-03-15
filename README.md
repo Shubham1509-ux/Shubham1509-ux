@@ -1,25 +1,24 @@
-🌟 Hey there! I'm @Shubham1509-ux 👋
+Welcome to my GitHub! I'm a Data Scientist & Machine Learning Enthusiast passionate about AI, Big Data, and Fashion-Tech Innovation.
 
-Welcome to my little corner of GitHub! I'm a tech enthusiast, problem solver, and all-around data-loving geek 🤓📊.
-
-👀 I’m interested in...
-Data Science & Machine Learning 🤖📈 (because who doesn’t love teaching machines cool tricks?)
-Big Data & Analytics 🔥 (I love finding hidden patterns in massive datasets!)
-Fashion & Tech Fusion 👗💡 (Neo-classical couture meets cutting-edge AI!)
-Creative Coding & Open-Source Projects 💻✨
-🌱 I’m currently learning...
-Advanced Deep Learning & NLP 🧠💬 (so I can chat with machines like Tony Stark!)
-Kubernetes & ML Model Deployment 🚀 (because AI should go beyond my laptop!)
-Fashion Design & AI Styling 🎨👠 (why not predict trends before they happen?)
-💞️ I’m looking to collaborate on...
-Exciting ML & AI projects (hit me up if you’re working on something cool!)
-Fashion-Tech Innovation (merging AI with design)
-Open-Source Data Science (because knowledge should be shared!)
-📫 How to reach me...
-💌 Email: sharmashubham1509@outlook.com
+👀 Interests
+Data Science & Machine Learning 🤖📊 /n
+Big Data & Analytics 🔥 /n
+Fashion & AI Fusion 👗💡
+Open-Source & Creative Coding 💻✨
+🌱 Currently Learning
+Deep Learning & NLP 🧠💬
+ML Model Deployment & Kubernetes 🚀
+Fashion-Tech & AI Styling 🎨
+💼 Looking to Collaborate On
+Exciting AI & ML Projects
+Fashion-Tech Innovation
+Open-Source Data Science
+📫 Connect with Me
+📧 Email: sharmashubham1509@outlook.com
+💼 LinkedIn: Shubham Sharma
 🐦 Twitter/X: @Shubham1509
-💼 LinkedIn: https://www.linkedin.com/in/sharmashubham123/
-🌐 Portfolio: [Coming Soon 🚧]
-😄 Pronouns:
+🌐 Portfolio: Coming Soon 🚧
+
+😄 Pronouns
 He/Him 🎩
 
