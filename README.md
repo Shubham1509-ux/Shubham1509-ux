@@ -10,10 +10,10 @@ Welcome to my GitHub! I'm a Data Scientist & Machine Learning Enthusiast passion
 ## 🌱 Currently Learning
 - Deep Learning & NLP 🧠💬
 - ML Model Deployment & Kubernetes 🚀
-- Fashion-Tech & AI Styling 🎨
+-AI
 
 ## 💼 Looking to Collaborate On
-- Exciting AI & ML Projects
+- Exciting Data & AI Projects
 - Open-Source Data Science
 
 
